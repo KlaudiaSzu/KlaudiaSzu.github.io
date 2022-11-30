@@ -10,7 +10,7 @@
 
 .header{
     max-height: 95px;
-    width: 100%;
+    width: auto;
     color: white;
     padding: 8px 12px;
 
@@ -313,7 +313,7 @@ h3{
 
 
 .learn-more{
-    width: 100%;
+    width: auto;
     text-align: left;
     background-color: #805f1d;
     padding: 40px;
